@@ -50,6 +50,9 @@ Generated_Code/
 # Secret files
 appsettings.*.json
 secrets.json
+appsettings.json
 
 # Others
 *.db
+.pfx
+.pem
